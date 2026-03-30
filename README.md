@@ -1,5 +1,10 @@
 # 💫 About Me:
-Proficient in leveraging tools like Tableau, Power BI, SQL, and Python to transform workforce and customer data into actionable insights.Salesforce Specialist: Experienced in Revenue Cloud (CPQ) implementation, including product catalog configuration and user story design, which has successfully reduced configuration errors by 25%.-<br>Skilled as a Scrum Master and Business Analyst, adept at facilitating agile ceremonies and improving sprint predictability.<br>Demonstrated success in diverse roles, from reducing fraud by 79% at Amazon to improving outreach targeting by 40% for non-profit operations.<br>Holds a Master in Decision Analytics (3.9/4.0 GPA) and an MBA in Business Analytics, complemented by certifications such as Lean Six Sigma Green Belt and Salesforce Certified Revenue Cloud Consultant.<br>Recognized for excellence in geospatial analytics, securing 3rd place and the People's Choice Award at the 2025 Virginia Datathon.
+Proficient in leveraging tools like Tableau, Power BI, SQL, and Python to transform workforce and customer data into actionable insights.
+Experienced in Revenue Cloud (CPQ) implementation, including product catalog configuration and user story design, which has successfully reduced configuration errors by 25%.-<br>
+Skilled as a Scrum Master and Business Analyst, adept at facilitating agile ceremonies and improving sprint predictability.<br>
+Demonstrated success in diverse roles, from reducing fraud by 79% at Amazon to improving outreach targeting by 40% for non-profit operations.<br>
+Holds a Master in Decision Analytics (3.9/4.0 GPA) and an MBA in Business Analytics, complemented by certifications such as Lean Six Sigma Green Belt and Salesforce Certified Revenue Cloud Consultant.<br>
+Recognized for excellence in geospatial analytics, securing 3rd place and the People's Choice Award at the 2025 Virginia Datathon.
 
 
 ## 🌐 Socials:
